@@ -21,4 +21,4 @@
   ## Questions
   If you have any questions about this project, please use my email or find me on GitHub!
   * jvarnum3@gmail.com
-  * [GitHub](http://github.com/TicTac2992)
+  * [TicTac2992](http://github.com/TicTac2992)
