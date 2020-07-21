@@ -13,7 +13,7 @@
   ## Installation
   npm install inquirer, npm install jest
   ## License
-  GPLv3 ![License](https://img.shields.io/badge/License-%202.0-blue.svg)
+  GPLv3   ![License](https://img.shields.io/badge/License-%202.0-blue.svg)
   ## Contributing
   None
   ## Tests
